@@ -1,6 +1,6 @@
-@use './normalize';
-@use './fonts';
-@use './hero';
+@use './styles/scss/normalize';
+@use './styles/scss/fonts';
+@use './styles/scss/hero';
 
 .container {
     max-width: 1280px;
@@ -15,7 +15,7 @@
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 754px) {
     .container {
         padding: 0;
     }

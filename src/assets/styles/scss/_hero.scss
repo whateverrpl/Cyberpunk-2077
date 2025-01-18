@@ -4,7 +4,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(images/hero/hero-bg-1.jpg);
+    background-image: url(../images/hero/hero-bg-1.jpg);
 
     animation: changeBackground 20s infinite;
 }
@@ -67,7 +67,7 @@
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 754px) {
     .hero__inner {
         width: 100%;
         min-height: 713px;
