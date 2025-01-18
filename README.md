@@ -1,2 +1,13 @@
-# Cyberpunk-2077
-Promo website for game The Cyberpunk 2077 with adaptive design
+# Descript
+Simple promo landing page for Cyberpunk 2077
+
+# Technologies i used
+- HTML
+- SCSS
+- JavaScript
+- Vite
+
+# Live link
+https://whateverrpl.github.io/Cyberpunk-2077
+
+# Screenshots
